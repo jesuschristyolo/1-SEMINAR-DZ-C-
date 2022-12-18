@@ -1,0 +1,15 @@
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\bin\Debug\net6.0\EX001.exe
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\bin\Debug\net6.0\EX001.deps.json
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\bin\Debug\net6.0\EX001.runtimeconfig.json
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\bin\Debug\net6.0\EX001.dll
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\bin\Debug\net6.0\EX001.pdb
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.csproj.AssemblyReference.cache
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.AssemblyInfo.cs
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.dll
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\refint\EX001.dll
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.pdb
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\EX001.genruntimeconfig.cache
+C:\Users\ПК\Desktop\GKBRN\Programs for gkbrn\1 SEMINAR DZ C#\Examples\EX001\obj\Debug\net6.0\ref\EX001.dll
